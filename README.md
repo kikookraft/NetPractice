@@ -50,16 +50,6 @@ The concepts studied in this project include:
   distinct functions. NetPractice focuses mainly on the Network layer and IPv4,
   while TCP belongs to the Transport layer.
 
-Useful classic references:
-
-- [RFC 791 - Internet Protocol](https://www.rfc-editor.org/rfc/rfc791)
-- [RFC 4632 - Classless Inter-domain Routing](https://www.rfc-editor.org/rfc/rfc4632)
-- [Cisco: IP Addressing and Subnetting](https://www.cisco.com/c/en/us/support/docs/ip/routing-information-protocol-rip/13788-3.html)
-- [MDN: An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
-- [IANA: Special-Purpose IP Address Registries](https://www.iana.org/assignments/iana-ipv4-special-registry/iana-ipv4-special-registry.xhtml)
-
-### AI Usage
-AI was only used to correct this README file. It was not used anywhere else.
 
 ### TCP/IP Addressing
 IP adresses are used to identify devices on the internet. They are composed of 4 octets, each ranging from 0 to 255, and are usually written in dotted decimal notation (e.g., 192.168.1.42 )
@@ -127,4 +117,5 @@ The layers consist of:
 
 The most interesting are the 2,3 and 7. For netpractice we only need to understand the 3rd layer
 
-### 
+### AI Usage
+AI was only used to correct this README file. It was not used anywhere else.
